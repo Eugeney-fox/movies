@@ -1,0 +1,28 @@
+.movies {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width:1600px;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: auto;
+
+}
+.wrapp{
+
+}
+
+.data{
+margin-left: 5px;
+}
+
+
+.menu{
+    border-radius: 10px;
+    margin-left: 30px;
+    height: 40px;
+    min-width: 150px;
+    padding-left: 10px;
+}

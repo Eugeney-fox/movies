@@ -1,0 +1,48 @@
+.movies {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width:1600px;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: auto;
+
+}
+.pag{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.pag_page{
+    margin-left: 10px;
+    color: #e6dee6;
+}
+
+.pag_page_click {
+    background-color: white;
+    border-radius: 6px;
+    margin-left: 10px;
+    color: black;
+    font-weight: bold;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.pag:hover{
+    cursor: pointer;
+}
+
+.pag_page:hover{
+    background-color: white;
+    color: black;
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    opacity: 0.8;
+}

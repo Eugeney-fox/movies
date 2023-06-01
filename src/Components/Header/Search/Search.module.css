@@ -1,0 +1,8 @@
+.header_search{
+    padding: 8px;
+    border: 2px solid #1a191f;
+    border-radius: 30px;
+    outline: none;
+    padding-left: 20px;
+    margin-right: 40px;
+}

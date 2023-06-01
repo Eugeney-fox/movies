@@ -1,0 +1,41 @@
+.movie_text{
+    padding: 10px 0px;
+
+}
+
+.movie_title{
+    font-size: 16px;
+    color: aliceblue;
+}
+
+.movie_category{
+    font-size: 14px;
+    color: antiquewhite;
+}
+
+.movie_rating{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a191f;
+    color: aliceblue;
+    font-size: 14px;
+}
+
+.movie_rating__green{
+    border: 2px solid green;
+}
+
+.movie_rating__orange{
+    border: 2px solid orange;
+}
+
+.movie_rating__red{
+    border: 2px solid red;
+}

@@ -1,0 +1,33 @@
+.nav_li{
+    text-decoration: none;
+    color:rgb(60, 61, 61);
+    margin-top: 10px;
+    opacity: 0.7;
+    padding-top: 10px;
+}
+
+.nav_li:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+.nav_li_white{
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    margin-top: 10px;
+    opacity: 1;
+    padding-top: 10px;
+}
+
+.fetch{
+    margin-top: 10px;
+    padding-top: 10px;
+    list-style-type: none;
+}
+
+.fetch_true{
+    list-style-type: circle;
+    margin-top: 10px;
+    padding-top: 10px;
+}

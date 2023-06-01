@@ -1,0 +1,6 @@
+.movie{
+    width: 240px;
+    margin: 20px;
+    position: relative;
+    overflow: hidden;
+}

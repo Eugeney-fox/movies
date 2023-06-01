@@ -1,0 +1,27 @@
+.nav{
+    grid-area: n;
+
+}
+
+.nav_content{
+    display: inline-block;
+    background-color: #e6dee6;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 110px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.nav_ul{
+    
+}
+
+.nav_scrolled{
+    position: fixed;
+    margin-top: 40px;
+}
+

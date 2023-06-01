@@ -1,0 +1,24 @@
+.heaeder_content{
+    position: absolute;
+    grid-area: h;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgba(20, 20, 20, 0.8);
+}
+
+.header_nav{
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+    display: flex;
+}
+
+
+
+.header_scrolled{
+    position: fixed;
+}
